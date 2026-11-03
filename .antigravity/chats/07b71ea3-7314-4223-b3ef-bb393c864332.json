@@ -52,6 +52,18 @@
       "created_at": "2026-11-03T00:33:13.508Z",
       "sender": "macOS",
       "is_cancelled": false
+    },
+    {
+      "id": "b6aa664d-38a1-4919-b1d3-8e833b148364",
+      "role": "user",
+      "content": "Convert the prompt to work on Gemini Ai",
+      "status": "pending",
+      "model": "gemini-3.8-flash-high",
+      "client_type": "gemini-bridge",
+      "parent_message_id": null,
+      "created_at": "2026-11-03T00:37:33.494Z",
+      "sender": "ios",
+      "is_cancelled": false
     }
   ]
 }
